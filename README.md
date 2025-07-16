@@ -1,6 +1,3 @@
-Sure! Here's the full README.md formatted cleanly for your project:
-
-````markdown
 # Handwritten Notes to Editable Documents
 
 ## Project Overview
