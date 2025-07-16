@@ -1,0 +1,13 @@
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+matplotlib
+streamlit
+python-docx
+fpdf
+pyspellchecker
+tesserocr
+transformers
+apache-airflow

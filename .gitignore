@@ -1,0 +1,8 @@
+```gitignore
+__pycache__/
+*.pyc
+data/
+model/
+*.pth
+.env
+.ipynb_checkpoints/
